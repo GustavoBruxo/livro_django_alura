@@ -1,3 +1,4 @@
+# -*- Coding: UTF-8 -*-
 """
 Django settings for medicSearchAdmin project.
 

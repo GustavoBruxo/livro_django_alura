@@ -1,3 +1,4 @@
+# -*- Coding: UTF-8 -*-
 """
 URL configuration for medicSearchAdmin project.
 

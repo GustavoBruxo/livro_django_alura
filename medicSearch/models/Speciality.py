@@ -1,3 +1,4 @@
+# -*- Coding: UTF-8 -*-
 from medicSearch.models import *
 
 
